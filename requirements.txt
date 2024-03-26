@@ -1,0 +1,14 @@
+Django>=3.0
+pytz==2024.1
+setuptools==68.0.0
+sqlparse==0.4.4
+asgiref==3.7.2
+colorama==0.4.3
+djangorestframework==3.14.0
+pillow==9.5.0
+pypng==0.20220715.0
+python-barcode==0.15.1
+pytz==2024.1
+qrcode==7.4.2
+typing_extensions==4.7.1
+tzdata==2024.1
